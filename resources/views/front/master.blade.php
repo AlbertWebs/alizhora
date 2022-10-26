@@ -116,16 +116,16 @@
                                                         <a href="{{url('/')}}">Home</a>
                                                     </li>
                                                     <li class="rs-mega-menu  ">
-                                                        <a href="{{url('/')}}">The Company</a>
+                                                        <a href="{{url('/')}}/the-company">The Company</a>
                                                     </li>
                                                     <li class="rs-mega-menu ">
-                                                        <a href="{{url('/')}}">Services</a>
+                                                        <a href="{{url('/')}}/services">Services</a>
                                                     </li>
                                                     <li class="rs-mega-menu ">
-                                                        <a href="{{url('/')}}">Our Sectors</a>
+                                                        <a href="{{url('/')}}/the-sectors">Our Sectors</a>
                                                     </li>
                                                     <li class="rs-mega-menu  ">
-                                                        <a href="{{url('/')}}">Contact Us</a>
+                                                        <a href="{{url('/')}}/contact-us">Contact Us</a>
                                                     </li>
 
                                                 </ul> <!-- //.nav-menu -->
