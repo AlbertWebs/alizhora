@@ -10,7 +10,7 @@
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- favicon -->
-        <link rel="apple-touch-icon" href="apple-touch-icon.html">
+        <link rel="apple-touch-icon" href="apple-touch-icon#">
         <link rel="shortcut icon" type="image/x-icon" href="{{asset('theme/assets/images/fav.png')}}">
         <!-- Bootstrap v4.4.1 css -->
         <link rel="stylesheet" type="text/css" href="{{asset('theme/assets/css/bootstrap.min.css')}}">
@@ -200,7 +200,7 @@
                                     </div>
                                     <div class="info-content">
                                         <h4 class="title">Email</h4>
-                                        <em><a href="mailto:support@reacthemes.com">support@reacthemes.com</a></em>
+                                        <em><a href="mailto:support@alizhorahrinternational.co.ke">support@alizhorahrinternational.co.ke</a></em>
                                     </div>
                                  </div>
                                 <div class="address-list">
@@ -209,14 +209,14 @@
                                     </div>
                                     <div class="info-content">
                                       <h4 class="title">Phone</h4>
-                                      <em>+019988772</em>
+                                      <em>+254 740 736 877</em>
                                     </div>
                                 </div>
                             </div>
                             <ul class="social">
                                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
+                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
                             </ul>
                         </div>
                     </nav>
@@ -299,7 +299,7 @@
             <div class="footer-top">
                 <div class="container">
                     <div class="row">
-                        <div class="col-lg-3 col-md-12 col-sm-12 md-mb-10">
+                        <div class="col-lg-4 col-md-12 col-sm-12 md-mb-10">
                             <div class="footer-logo mb-40">
                                 <a href="{{url('/')}}"><img src="{{asset('theme/assets/images/logo.png')}}" alt=""></a>
                             </div>
@@ -322,34 +322,35 @@
 
                               </ul>
                         </div>
-                        <div class="col-lg-3 col-md-12 col-sm-12 md-mb-10 pl-55 md-pl-15">
+                        <div class="col-lg-4 col-md-12 col-sm-12 md-mb-10 pl-55 md-pl-15">
                             <h3 class="footer-title">Our Services</h3>
                             <ul class="site-map">
-                                <li><a href="business-planning.html">Business planning</a></li>
-                                <li><a href="tax-strategy.html">Tax strategy</a></li>
-                                <li><a href="financial-advices.html">Financial advices</a></li>
-                                <li><a href="insurance-strategy.html">Insurance strategy</a></li>
-                                <li><a href="manage-investment.html">Manage investment</a></li>
+                                <li><a href="business-planning#">Business planning</a></li>
+                                <li><a href="tax-strategy#">Tax strategy</a></li>
+                                <li><a href="financial-advices#">Financial advices</a></li>
+                                <li><a href="insurance-strategy#">Insurance strategy</a></li>
+                                <li><a href="manage-investment#">Manage investment</a></li>
                             </ul>
                         </div>
-                        <div class="col-lg-3 col-md-12 col-sm-12 md-mb-10">
+                        <div class="col-lg-4 col-md-12 col-sm-12 md-mb-10">
                             <h3 class="footer-title">Contact Info</h3>
                             <ul class="address-widget">
                                 <li>
                                     <i class="flaticon-location"></i>
-                                    <div class="desc">1010 Avenue of the Moon <br>
-                                        New York, NY 10018 US.</div>
+                                    <div class="desc"> Nairobi, Kenya
+                                        <br>
+                                        </div>
                                 </li>
                                 <li>
                                     <i class="flaticon-call"></i>
                                     <div class="desc">
-                                       <a href="#">(+880)155 69569 365</a>
+                                       <a href="tel:+254 740 736 877">+254 740 736 877</a>
                                     </div>
                                 </li>
                                 <li>
                                     <i class="flaticon-email"></i>
                                     <div class="desc">
-                                        <a href="mailto:support@reacthemes.com">support@reacthemes.com</a>
+                                        <a href="mailto:support@alizhorahrinternational.co.ke">support@alizhorahrinternational.co.ke</a>
                                     </div>
                                 </li>
                                 <li>
@@ -360,14 +361,7 @@
                                 </li>
                             </ul>
                         </div>
-                        <div class="col-lg-3 col-md-12 col-sm-12">
-                            <h3 class="footer-title">Newsletter</h3>
-                            <p class="widget-desc white-color">Stay up to update with our latest news and products.</p>
-                            <p>
-                                <input type="email" name="EMAIL" placeholder="Your email address" required="">
-                                <input type="submit" value="Subscribe Now">
-                            </p>
-                        </div>
+
                     </div>
                 </div>
             </div>
@@ -377,9 +371,9 @@
                         <div class="col-lg-6 md-mb-10 text-lg-end text-center order-last">
                             <ul class="copy-right-menu">
                                 <li><a href="{{url('/')}}">Home</a></li>
-                                <li><a href="about.html">About</a></li>
-                                <li><a href="faqs.html">Faqs</a></li>
-                                <li><a href="contact.html">Contact</a></li>
+                                <li><a href="about#">About</a></li>
+                                <li><a href="faqs#">Faqs</a></li>
+                                <li><a href="contact#">Contact</a></li>
                             </ul>
                         </div>
                         <div class="col-lg-6">
