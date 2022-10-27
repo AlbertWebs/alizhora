@@ -4,14 +4,31 @@
 <head>
         <!-- meta tag -->
         <meta charset="utf-8">
-        <title>Alizhora HR International</title>
-        <meta name="description" content="">
+        <title>Alizhora HR International - Human Resource Consultancy</title>
+        <meta name="description" content="Alizhora HR International is a dynamic consultancy dedicated to empower people towards excellence
+
+        in their careers and personal life through Transformative Leadership and
+
+        Management Training.">
+
+        {{-- OG --}}
+        <meta property="og:description" content="Alizhora HR International is a dynamic consultancy dedicated to empower people towards excellence
+
+        in their careers and personal life through Transformative Leadership and
+
+        Management Training.">
+        <meta property="og:image" content="{{asset('theme/assets/images/Alizhora-logos-favicon.png')}}" />
+        <meta property="fb:app_id" content="682580657174772" />
+        <meta property="og:title" content="Alizhora HR International - Human Resource Consultancy " />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="{{url('/')}}" />
+        {{-- OG --}}
         <!-- responsive tag -->
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- favicon -->
         <link rel="apple-touch-icon" href="apple-touch-icon#">
-        <link rel="shortcut icon" type="image/x-icon" href="{{asset('theme/assets/images/fav.png')}}">
+        <link rel="shortcut icon" type="image/x-icon" href="{{asset('theme/assets/images/Alizhora-logos-favicon.png')}}">
         <!-- Bootstrap v4.4.1 css -->
         <link rel="stylesheet" type="text/css" href="{{asset('theme/assets/css/bootstrap.min.css')}}">
         <!-- font-awesome css -->
