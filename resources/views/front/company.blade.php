@@ -9,8 +9,13 @@
                 We strengthen organizations
                 <span class="watermark">About</span>
             </h1>
-            <span class="sub-text">Excepteur sint occaecat cupidatat non proident, sunt in coulpa qui official
-                modeserunt mollit anim id est laborum 20 years experience.</span>
+            <span class="sub-text">
+                Alizhora HR International is a dynamic consultancy dedicated to empower people towards excellence
+
+                in their careers and personal life through Transformative Leadership and
+
+                Management Training.
+            </span>
         </div>
     </div>
 </div>
@@ -28,17 +33,27 @@
             <div class="col-lg-6 ">
                 <div class="sec-title">
                     <h2 class="title pb-22">
-                        We help to implement your ideas into automation
+                        All HR Solutions
                     </h2>
-                    <span class="sub-text big">We donec pulvinar magna id leoersi pellentesque impered dignissim
-                        rhoncus euismod euismod eros vitae best consulting & financial services theme .</span>
+                    <span class="sub-text big">Alizhora HR International is a dynamic consultancy dedicated to empower people towards excellence
 
-                    <p class="margin-0 pt-15">Business ipsum dolor sit amet nsectetur cing elit. Suspe ndisse
-                        suscipit sagittis leo sit met entum is not estibulum dignity sim posuere cubilia durae.
-                        Leo sit met entum cubilia crae. At vero eos accusamus et iusto odio dignissimos
-                        provident.</p>
+                        in their careers and personal life through Transformative Leadership and
+
+                        Management Training.</span>
+
+                    <p class="margin-0 pt-15">
+                        Alizhora is a management consultancy centre with a highly qualified and experienced
+                        team of dedicated human resource experts and takes pride in being your one stop centre
+                        for human resource solutions.<br>
+                        We avail our time and resources to be up to speed with the latest and most transformative
+
+                        leadership and management solution. Our training elements are structured towards nurtu-
+                        ring your individual objectives and ensures high staff performance as per your desired
+
+                        need
+                    </p>
                     <div class="btn-part mt-45 md-mt-30">
-                        <a class="readon consultant discover" href="about.html">Contact Us</a>
+                        <a class="readon consultant discover" href="{{url('/services')}}">What We Do</a>
                     </div>
                 </div>
             </div>
@@ -62,8 +77,8 @@
                         <img src="{{asset('theme/assets/images/choose/icons/1.png')}}" alt="Images">
                     </div>
                     <div class="services-text">
-                        <h3 class="title"><a href="services-style1.html">Expert peoples</a></h3>
-                        <p class="services-txt">At vero eos et accusamus etiusto odio praesentium.</p>
+                        <h3 class="title"><a href="{{url('/')}}/services">Expert Personale</a></h3>
+                        <p class="services-txt">Our Expert personel makes us stand out</p>
                     </div>
                 </div>
             </div>
@@ -73,8 +88,8 @@
                         <img src="{{asset('theme/assets/images/choose/icons/2.png')}}" alt="Images">
                     </div>
                     <div class="services-text">
-                        <h3 class="title"><a href="services-style1.html">Big experience</a></h3>
-                        <p class="services-txt">At vero eos et accusamus etiusto odio praesentium.</p>
+                        <h3 class="title"><a href="{{url('/')}}/services">Sufficient Experience</a></h3>
+                        <p class="services-txt">We offer our services from knowledge and Experience</p>
                     </div>
                 </div>
             </div>
@@ -84,8 +99,8 @@
                         <img src="{{asset('theme/assets/images/choose/icons/3.png')}}" alt="Images">
                     </div>
                     <div class="services-text">
-                        <h3 class="title"><a href="services-style1.html">Committed to quality</a></h3>
-                        <p class="services-txt">At vero eos et accusamus etiusto odio praesentium.</p>
+                        <h3 class="title"><a href="{{url('/')}}/services">Quality Assuarance</a></h3>
+                        <p class="services-txt">Quality Services Is 100% Guaranteed</p>
                     </div>
                 </div>
             </div>
@@ -103,37 +118,40 @@
                     <h2 class="title pb-30">
                         Why choose us
                     </h2>
-                    <p class="margin-0">We donec pulvinar magna id leoersi pellentesque impered dignissim
-                        rhoncus euismod euismod eros vitae. we denounce with righteous indignation and dislike
-                        men who are so beguiled and demoralized by the charms of pleasure of the moment.</p>
+                    <p class="margin-0">
+                        1. Integrity – Build trust with clients and each other by actions and deliverables. We deliver
+                        what we promise to our people and our clients.
+                        <br>
+                        2. Quality - We ensure we deliver high standards of deliverables time and again.
+                        <br>
+                        3. Collaboration - We together work towards achieving long term growth for our clients, stake
+                        holders and benefit each other.
+                        <br>
+                        4. Respect - We create an environment where each person feels valued and treated with dignity
+                    </p>
                 </div>
                 <!-- Skillbar Section Start -->
                 <div class="rs-skillbar style1">
                     <div class="cl-skill-bar">
-                        <!-- Start Skill Bar -->
-                        <span class="skillbar-title">Business Planning</span>
-                        <div class="skillbar" data-percent="90">
-                            <p class="skillbar-bar"></p>
-                            <span class="skill-bar-percent"></span>
-                        </div>
-                        <!-- Start Skill Bar -->
-                        <span class="skillbar-title">Financial Advices</span>
-                        <div class="skillbar" data-percent="85">
-                            <p class="skillbar-bar"></p>
-                            <span class="skill-bar-percent"></span>
-                        </div>
-                        <!-- Start Skill Bar -->
-                        <span class="skillbar-title">Investment Strategy</span>
-                        <div class="skillbar" data-percent="75">
-                            <p class="skillbar-bar"></p>
-                            <span class="skill-bar-percent"></span>
-                        </div>
-                        <!-- Start Skill Bar -->
-                        <span class="skillbar-title">Business Security</span>
-                        <div class="skillbar margin-no" data-percent="65">
-                            <p class="skillbar-bar"></p>
-                            <span class="skill-bar-percent"></span>
-                        </div>
+                       <!-- Start Skill Bar -->
+                       <span class="skillbar-title">Human Resource Solutions</span>
+                       <div class="skillbar" data-percent="100">
+                           <p class="skillbar-bar"></p>
+                           <span class="skill-bar-percent"></span>
+                       </div>
+                       <!-- Start Skill Bar -->
+                       <span class="skillbar-title">Employee Selection & Placement</span>
+                       <div class="skillbar" data-percent="100">
+                           <p class="skillbar-bar"></p>
+                           <span class="skill-bar-percent"></span>
+                       </div>
+                       <!-- Start Skill Bar -->
+                       <span class="skillbar-title">Training</span>
+                       <div class="skillbar" data-percent="100">
+                           <p class="skillbar-bar"></p>
+                           <span class="skill-bar-percent"></span>
+                       </div>
+
                     </div>
                 </div>
                 <!-- Skillbar Section End -->

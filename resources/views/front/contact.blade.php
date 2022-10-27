@@ -9,9 +9,7 @@
                 Have questions - contact us
                 <span class="watermark">Contact</span>
             </h1>
-            <span class="sub-text">Excepteur sint occaecat cupidatat non proident, sunt in coulpa qui official
-                modeserunt<br>
-                mollit anim id est laborum 20 years experience.</span>
+            <span class="sub-text">Alizhora HR International is a dynamic consultancy dedicated to empower people towards excellence in their careers and personal life through Transformative Leadership and Management Training.</span>
         </div>
     </div>
 </div>
@@ -22,9 +20,9 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-6 pr-40 md-pr-15 md-mb-50">
-                <div class="contact-map">
+                <div class="contact-map" style="border-radius:10px;">
                     <iframe
-                        src="https://maps.google.com/maps?q=rstheme&amp;t=&amp;z=13&amp;ie=UTF8&amp;iwloc=&amp;output=embed"></iframe>
+                        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15955.278735044094!2d36.7799344!3d-1.2819582!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6ae3d137c7a19a23!2sVartech%20East%20Africa!5e0!3m2!1sen!2ske!4v1666856524215!5m2!1sen!2ske"></iframe>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -32,8 +30,9 @@
                     <h2 class="title pb-20">
                         Let us help your business to move <span>forward.</span>
                     </h2>
-                    <p class="margin-0">We donec pulvinar magna id leoersi pellentesque impered dignissim
-                        rhoncus euismod euismod eros vitae..</p>
+                    <p class="margin-0">
+                        Alizhora HR International is a dynamic consultancy dedicated to empower people towards excellence in their careers and personal life through Transformative Leadership and Management Training.
+                    </p>
                 </div>
                 <div class="contact-wrap">
                     <div id="form-messages"></div>
@@ -64,7 +63,7 @@
                             </div>
                             <div class="btn-part">
                                 <div class="form-group mb-0">
-                                    <input class="readon submit" type="submit" value="Submit Now">
+                                    <input style="border-radius:10px" class="readon submit" type="submit" value="Send Message">
                                 </div>
                             </div>
                         </fieldset>

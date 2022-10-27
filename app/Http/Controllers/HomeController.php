@@ -27,4 +27,19 @@ class HomeController extends Controller
         return view('front.services');
     }
 
+    public function copyright()
+    {
+        return view('front.copyright');
+    }
+
+    public function terms()
+    {
+        return view('front.terms');
+    }
+
+    public function policy()
+    {
+        return view('front.policy');
+    }
+
 }
