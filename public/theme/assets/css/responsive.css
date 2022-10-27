@@ -6,7 +6,7 @@
 *
 * Template : Bizup  Consulting Business HTML Template
 * Author : reacthemes
-* Author URI : https://reactheme.com/ 
+* Author URI : https://reactheme.com/
 *
 * -----------------------------------------------------------------------------
 *
@@ -30,20 +30,20 @@
     .container.custom{
         max-width: 1200px;
         width: 100%;
-    } 
+    }
     .container.custom2{
         max-width: 1320px;
         width: 100%;
     }
 }
 
-@media only screen and (max-width: 1366px) { 
+@media only screen and (max-width: 1366px) {
     .full-width-header .rs-header .menu-area .main-menu .rs-menu ul.nav-menu li {
         margin-right: 17px;
     }
     .full-width-header .rs-header .menu-area .main-menu .rs-menu ul.nav-menu li a {
         font-size: 14px;
-    } 
+    }
     .full-width-header .rs-header .expand-btn-inner ul .btn-quote a {
         padding: 10px 18px;
         font-size: 14px;
@@ -81,13 +81,13 @@
 @media only screen and (max-width: 1199px) {
     .lg-pl-pr-15,
     .lg-col-padding > [class*="col-"] {
-        padding-right: 15px !important; 
+        padding-right: 15px !important;
         padding-left: 15px !important;
     }
     .full-width-header .rs-header .menu-area .main-menu .rs-menu ul.mega-menu {
         min-width: 900px;
     }
-    
+
     .full-width-header .rs-header.rs-header-style2 .toolbar-sl-share {
         display: none;
     }
@@ -204,7 +204,7 @@
 }
 
 @media screen and (min-width: 992px){
-    .nav-menu .rs-mega-menu > a:after, 
+    .nav-menu .rs-mega-menu > a:after,
     .nav-menu > .menu-item-has-children > a:after {
         content: "\f107";
         font-family: FontAwesome;
@@ -222,7 +222,7 @@
     .rs-contact.main-home.office-modify1 .contact-section {
         padding: 70px 40px 121px;
     }
-    .sticky{ 
+    .sticky{
         background: #fff !important;
         position: fixed !important;
         top: 0px;
@@ -277,7 +277,7 @@
     }
     .md-left{
         text-align: left !important;
-    }   
+    }
     .d-flex{
         display: block !important;
     }
@@ -317,11 +317,11 @@
     .rs-banner .animate-part,
     .rs-about.style2 .rs-animation .animate-style,
     .full-width-header .rs-header.header-home5-style .expand-btn-inner ul li .readon.consultant.get-quote,
-    .full-width-header .rs-header.style2.header-home4-style .expand-btn-inner ul li .btn-part, 
-    .full-width-header .rs-header.style3 .box-layout .row-table .rightbar-menu .expand-btn-inner .toolbar-sl-share, 
+    .full-width-header .rs-header.style2.header-home4-style .expand-btn-inner ul li .btn-part,
+    .full-width-header .rs-header.style3 .box-layout .row-table .rightbar-menu .expand-btn-inner .toolbar-sl-share,
     .full-width-header .rs-header .topbar-area,
     .full-width-header .rs-header .menu-area .main-menu .rs-menu ul.nav-menu.onepage li a::after,
-    .full-width-header .rs-header .menu-area .main-menu .rs-menu ul.nav-menu li.menu-item-has-children::after, 
+    .full-width-header .rs-header .menu-area .main-menu .rs-menu ul.nav-menu li.menu-item-has-children::after,
     .full-width-header .rs-header .menu-area.sticky .logo-area a .sticky-logo,
     .full-width-header .rs-header.style1 .menu-area .main-menu .rs-menu ul.nav-menu li.menu-item-has-children > a::before,
     .full-width-header .rs-header.style2.modify1 .menu-area .main-menu .rs-menu ul.nav-menu li.menu-item-has-children > a::before,
@@ -397,7 +397,7 @@
         height: 45px;
         line-height: 45px;
     }
-   
+
     .rs-slider.rs-slider-style4.slider3 .content-part .sl-title,
     .rs-slider.slider3 .content-part .sl-title {
         font-size: 70px;
@@ -430,7 +430,7 @@
         height: unset;
     }
     .full-width-header .rs-header.style2.header-home4-style .expand-btn-inner ul .humburger,
-    .full-width-header .rs-header.style3 .box-layout .row-table .header-logo, 
+    .full-width-header .rs-header.style3 .box-layout .row-table .header-logo,
     .full-width-header .rs-header.style3 .box-layout .row-table .rightbar-menu .expand-btn-inner .humburger {
         display: block;
     }
@@ -543,7 +543,7 @@
     .text-md-left {
         text-align: left !important;
     }
-    
+
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     .rs-pricing.style2 .pricing-wrap .body-part {
@@ -561,7 +561,7 @@
     .sec-title .title {
         font-size: 26px;
         line-height: 36px;
-    }  
+    }
     .rs-banner.main-home .content-wrap .sub-title {
         font-size: 44px;
         line-height: 54px;
@@ -595,7 +595,7 @@
     .rs-services.style5 .flip-box-inner .flip-box-wrap .front-part .front-content-part {
        height: 100%;
        padding: 50px 30px 30px 30px;
-    }  
+    }
     .rs-services.style5 .flip-box-inner .flip-box-wrap .back-part {
         padding: 20px;
     }
@@ -1000,7 +1000,7 @@
     }
     .rs-contact.main-home .contact-icons-style .contact-item {
         display: block;
-        margin: unset;        
+        margin: unset;
     }
     .rs-contact.main-home .contact-icons-style .contact-item .content-text {
         padding: 12px 0px 0px 0;

@@ -102,8 +102,8 @@
                                 <div class="col-cell header-logo">
                                     <div class="logo-area">
                                         <a href="{{url('/')}}">
-                                            <img class="normal-logo" src="{{asset('theme/assets/images/logo.png')}}" alt="logo">
-                                            <img class="sticky-logo" src="{{asset('theme/assets/images/logo-dark.png')}}" alt="logo">
+                                            <img class="normal-logo" src="{{asset('theme/assets/images/Alizhoralogos-2-light.png')}}" alt="logo">
+                                            <img class="sticky-logo" src="{{asset('theme/assets/images/Alizhora-logos-1-dark.png')}}" alt="logo">
                                         </a>
                                     </div>
                                 </div>
@@ -299,11 +299,18 @@
             <div class="footer-top">
                 <div class="container">
                     <div class="row">
-                        <div class="col-lg-4 col-md-12 col-sm-12 md-mb-10">
+                        <div class="col-lg-5 col-md-12 col-sm-12 md-mb-10">
                             <div class="footer-logo mb-40">
-                                <a href="{{url('/')}}"><img src="{{asset('theme/assets/images/logo.png')}}" alt=""></a>
+                                <a href="{{url('/')}}"><img src="{{asset('theme/assets/images/Alizhoralogos-2-light.png')}}" alt=""></a>
                             </div>
-                              <div class="textwidget white-color pb-40"><p>We denounce with righteous indig nation in and dislike men who are so beguiled and to demo realized by the, so blinded by desire, that they cannot foresee.</p>
+                              <div class="textwidget white-color pb-40">
+                              <p>
+                                Alizhora HR International is a dynamic consultancy dedicated to empower people towards excellence
+
+                                in their careers and personal life through Transformative Leadership and
+
+                                Management Training.
+                              </p>
                               </div>
                               <ul class="footer-social md-mb-30">
                                   <li>
@@ -314,21 +321,27 @@
                                   </li>
 
                                   <li>
-                                      <a href="# " target="_blank"><span><i class="fa fa-pinterest-p"></i></span></a>
+                                      <a href="# " target="_blank"><span><i class="fa fa-linkedin"></i></span></a>
                                   </li>
                                   <li>
                                       <a href="# " target="_blank"><span><i class="fa fa-instagram"></i></span></a>
                                   </li>
+                                  <li>
+                                    <a href="# " target="_blank"><span><i class="fa fa-comment"></i></span></a>
+                                  </li>
+                                <li>
+                                    <a href="# " target="_blank"><span><i class="fa fa-map-marker"></i></span></a>
+                                </li>
 
                               </ul>
                         </div>
-                        <div class="col-lg-4 col-md-12 col-sm-12 md-mb-10 pl-55 md-pl-15">
+                        <div class="col-lg-3 col-md-12 col-sm-12 md-mb-10 pl-55 md-pl-15">
                             <h3 class="footer-title">Our Services</h3>
                             <ul class="site-map">
-                                <li><a href="business-planning#">Business planning</a></li>
-                                <li><a href="tax-strategy#">Tax strategy</a></li>
-                                <li><a href="financial-advices#">Financial advices</a></li>
-                                <li><a href="insurance-strategy#">Insurance strategy</a></li>
+                                <li><a href="business-planning#">Human Resource Solutions</a></li>
+                                <li><a href="tax-strategy#">Employee Selection & Placement</a></li>
+                                <li><a href="financial-advices#">Training</a></li>
+                                <li><a href="insurance-strategy#">Terms and Conditions</a></li>
                                 <li><a href="manage-investment#">Manage investment</a></li>
                             </ul>
                         </div>
@@ -356,7 +369,7 @@
                                 <li>
                                     <i class="flaticon-clock-1"></i>
                                     <div class="desc">
-                                        Office Hours: 8AM - 11PM
+                                        Office Hours: 8AM - 5PM
                                     </div>
                                 </li>
                             </ul>
@@ -371,9 +384,9 @@
                         <div class="col-lg-6 md-mb-10 text-lg-end text-center order-last">
                             <ul class="copy-right-menu">
                                 <li><a href="{{url('/')}}">Home</a></li>
-                                <li><a href="about#">About</a></li>
-                                <li><a href="faqs#">Faqs</a></li>
-                                <li><a href="contact#">Contact</a></li>
+                                <li><a href="{{url('/')}}/the-company">The Company</a></li>
+                                <li><a href="faqs#">Privacy Policy</a></li>
+                                <li><a href="{{url('/')}}/contact-us">Contact</a></li>
                             </ul>
                         </div>
                         <div class="col-lg-6">
