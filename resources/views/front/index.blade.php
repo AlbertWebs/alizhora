@@ -9,7 +9,7 @@
             <h1 class="title">We maximize</h1>
             <h3 class="sub-title">your business growth</h3>
             <div class="btn-part">
-                <a class="readon consultant" href="contact.html">Find Consultant</a>
+                <a download class="readon consultant" href="{{url('/')}}/uploads/Alizhora-Company-Profile.pdf">Company Profile <i class="fa fa-download"></i></a>
             </div>
         </div>
     </div>
@@ -44,11 +44,25 @@
                     <h2 class="title pb-30">
                         We take your business to next level
                     </h2>
-                    <span class="sub-text">30+ years experience in business and finance consulting, IT solutions, and working with 5k+ clients over the world. </span>
+                    <span class="sub-text">Alizhora HR International is a dynamic consultancy dedicated to empower people towards excellence
 
-                    <p class="margin-0">Nor is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but occasionally circumstances occur in which toil and pain can procure him some great pleasure. Creation timelines for the digital consulting business theme 2021 bstandard lorem ipsum passage vary, with some citing the 15th century and others the 20th.</p>
+                        in their careers and personal life through Transformative Leadership and
+
+                        Management Training.</span>
+
+                    <p class="margin-0">
+                        Alizhora is a management consultancy centre with a highly qualified and experienced
+                        team of dedicated human resource experts and takes pride in being your one stop centre
+                        for human resource solutions.
+                        We avail our time and resources to be up to speed with the latest and most transformative
+
+                        leadership and management solution. Our training elements are structured towards nurtu-
+                        ring your individual objectives and ensures high staff performance as per your desired
+
+                        need
+                    </p>
                     <div class="btn-part mt-45">
-                        <a class="readon consultant discover" href="about.html">Discover More</a>
+                        <a class="readon consultant discover" href="{{url('/')}}/the-company">Discover More</a>
                     </div>
                 </div>
             </div>
@@ -70,7 +84,7 @@
             </div>
             <div class="col-lg-5 text-right md-left">
                 <div class="btn-part mb-90 md-mb-50">
-                    <a class="readon consultant discover" href="services-style1.html">View Services</a>
+                    <a class="readon consultant discover" href="{{url('/')}}/services">View Services</a>
                 </div>
             </div>
         </div>
@@ -146,220 +160,6 @@
 </div>
 <!-- Services Section End -->
 
-<!-- Project Section Start -->
-<div class="rs-project style1 bg3 pt-100 pb-100 md-pt-70 md-pb-70">
-    <div class="container">
-        <div class="sec-title text-center mb-60 md-mb-40">
-            <h2 class="title title2">
-                Completed business cases
-            </h2>
-        </div>
-        <div class="gridFilter mb-50 md-mb-30 text-center">
-            <button class="active" data-filter="*">All</button>
-            <button data-filter=".filter1">Business Strategy</button>
-            <button data-filter=".filter2">Financial</button>
-            <button data-filter=".filter3">Investment</button>
-            <button data-filter=".filter4">Tax Consulting</button>
-        </div>
-        <div class="row grid">
-            <div class="col-lg-4 col-md-6 mb-30 grid-item filter1">
-                <div class="project-item">
-                    <div class="project-img">
-                        <img src="{{asset('theme/assets/images/project/style1/1.jpg')}}" alt="images">
-                    </div>
-                    <div class="project-content">
-                        <div class="project-inner">
-                            <span class="category"><a href="project-single.html">Investment</a></span>
-                            <h3 class="title"><a href="project-single.html">Business planning</a></h3>
-                            <a class="p-icon" href="project-single.html"><i class="custom-icon"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 mb-30 grid-item filter3 filter1">
-                <div class="project-item">
-                    <div class="project-img">
-                        <img src="{{asset('theme/assets/images/project/style1/2.jpg')}}" alt="images">
-                    </div>
-                    <div class="project-content">
-                        <div class="project-inner">
-                            <span class="category"><a href="project-single.html">Investment</a></span>
-                            <h3 class="title"><a href="project-single.html">Strength solutions</a></h3>
-                            <a class="p-icon" href="project-single.html"><i class="custom-icon"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 mb-30 grid-item filter2 filter4">
-                <div class="project-item">
-                    <div class="project-img">
-                        <img src="{{asset('theme/assets/images/project/style1/3.jpg')}}" alt="images">
-                    </div>
-                    <div class="project-content">
-                        <div class="project-inner">
-                            <span class="category"><a href="project-single.html">Business Strategy</a></span>
-                            <h3 class="title"><a href="project-single.html">Business analytics</a></h3>
-                            <a class="p-icon" href="project-single.html"><i class="custom-icon"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 md-mb-30 grid-item filter2 filter3">
-                <div class="project-item">
-                    <div class="project-img">
-                        <img src="{{asset('theme/assets/images/project/style1/4.jpg')}}" alt="images">
-                    </div>
-                    <div class="project-content">
-                        <div class="project-inner">
-                            <span class="category"><a href="project-single.html">Business Strategy</a></span>
-                            <h3 class="title"><a href="project-single.html">Stock market analysis</a></h3>
-                            <a class="p-icon" href="project-single.html"><i class="custom-icon"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 sm-mb-30 grid-item filter3 filter4">
-                <div class="project-item">
-                    <div class="project-img">
-                        <img src="{{asset('theme/assets/images/project/style1/5.jpg')}}" alt="images">
-                    </div>
-                    <div class="project-content">
-                        <div class="project-inner">
-                            <span class="category"><a href="project-single.html">Financial</a></span>
-                            <h3 class="title"><a href="project-single.html">Sales analysis</a></h3>
-                            <a class="p-icon" href="project-single.html"><i class="custom-icon"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 grid-item filter2 filter4">
-                <div class="project-item">
-                    <div class="project-img">
-                        <img src="{{asset('theme/assets/images/project/style1/6.jpg')}}" alt="images">
-                    </div>
-                    <div class="project-content">
-                        <div class="project-inner">
-                            <span class="category"><a href="project-single.html">Tax Consulting</a></span>
-                            <h3 class="title"><a href="project-single.html">Stock investments</a></h3>
-                            <a class="p-icon" href="project-single.html"><i class="custom-icon"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- Project Section End -->
-
-<!-- Team Section Start -->
-<div class="rs-team style1 bg4 pt-100 pb-100 md-pt-70 md-pb-70">
-    <div class="container">
-        <div class="row y-middle">
-            <div class="col-lg-5">
-               <div class="sec-title mb-50 md-mb-35">
-                   <h2 class="title white-color">
-                       We’re experienced professionals
-                   </h2>
-               </div>
-            </div>
-            <div class="col-lg-7 text-right md-left">
-                <div class="btn-part mb-90 md-mb-50">
-                    <a class="readon consultant discover" href="about.html">View Peoples</a>
-                </div>
-            </div>
-        </div>
-        <div class="rs-carousel owl-carousel"
-            data-loop="true"
-            data-items="3"
-            data-margin="30"
-            data-autoplay="true"
-            data-hoverpause="true"
-            data-autoplay-timeout="5000"
-            data-smart-speed="800"
-            data-dots="true"
-            data-nav="false"
-            data-nav-speed="false"
-
-            data-md-device="3"
-            data-md-device-nav="false"
-            data-md-device-dots="true"
-            data-center-mode="false"
-
-            data-ipad-device2="2"
-            data-ipad-device-nav2="false"
-            data-ipad-device-dots2="true"
-
-            data-ipad-device="2"
-            data-ipad-device-nav="false"
-            data-ipad-device-dots="true"
-
-            data-mobile-device="1"
-            data-mobile-device-nav="false"
-            data-mobile-device-dots="true">
-            <div class="team-wrap">
-                <div class="image-wrap">
-                    <a href="team-single.html"><img src="{{asset('theme/assets/images/team/1.jpg')}}" alt="Team"></a>
-                    <ul class="social-icons">
-                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                    </ul>
-                </div>
-                <div class="team-content">
-                    <h3 class="team-name"><a href="team-single.html">Dakota Johnson</a></h3>
-                    <span class="team-title">Business Advisor</span>
-                </div>
-            </div>
-            <div class="team-wrap">
-                <div class="image-wrap">
-                    <a href="team-single.html"><img src="{{asset('theme/assets/images/team/2.jpg')}}" alt="Team"></a>
-                    <ul class="social-icons">
-                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                    </ul>
-                </div>
-                <div class="team-content">
-                    <h3 class="team-name"><a href="team-single.html">Morgan Freeman</a></h3>
-                    <span class="team-title">Senior Consultant</span>
-                </div>
-            </div>
-            <div class="team-wrap">
-                <div class="image-wrap">
-                    <a href="team-single.html"><img src="{{asset('theme/assets/images/team/3.jpg')}}" alt="Team"></a>
-                    <ul class="social-icons">
-                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                    </ul>
-                </div>
-                <div class="team-content">
-                    <h3 class="team-name"><a href="team-single.html">Natalie Martinez</a></h3>
-                    <span class="team-title">Business Advisor</span>
-                </div>
-            </div>
-            <div class="team-wrap">
-                <div class="image-wrap">
-                    <a href="team-single.html"><img src="{{asset('theme/assets/images/team/4.jpg')}}" alt="Team"></a>
-                    <ul class="social-icons">
-                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                    </ul>
-                </div>
-                <div class="team-content">
-                    <h3 class="team-name"><a href="team-single.html">Al Pacino</a></h3>
-                    <span class="team-title">Finance Consultant</span>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- Team Section Start -->
 
 <!-- Why Choose Section Start -->
 <div class="rs-choose bg5 pt-100 pb-100 md-pt-70 md-pb-70">
@@ -370,35 +170,40 @@
                     <h2 class="title pb-30">
                         Why choose us
                     </h2>
-                    <p class="margin-0">We donec pulvinar magna id leoersi pellentesque impered dignissim rhoncus euismod euismod eros vitae. we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment.</p>
+                    <p class="margin-0">
+                        1. Integrity – Build trust with clients and each other by actions and deliverables. We deliver
+                        what we promise to our people and our clients.
+                        <br>
+                        2. Quality - We ensure we deliver high standards of deliverables time and again.
+                        <br>
+                        3. Collaboration - We together work towards achieving long term growth for our clients, stake
+                        holders and benefit each other.
+                        <br>
+                        4. Respect - We create an environment where each person feels valued and treated with dignity
+                    </p>
                 </div>
                 <!-- Skillbar Section Start -->
                 <div class="rs-skillbar style1">
                     <div class="cl-skill-bar">
                        <!-- Start Skill Bar -->
-                       <span class="skillbar-title">Business Planning</span>
-                       <div class="skillbar" data-percent="90">
+                       <span class="skillbar-title">Human Resource Solutions</span>
+                       <div class="skillbar" data-percent="100">
                            <p class="skillbar-bar"></p>
                            <span class="skill-bar-percent"></span>
                        </div>
                        <!-- Start Skill Bar -->
-                       <span class="skillbar-title">Financial Advices</span>
-                       <div class="skillbar" data-percent="85">
+                       <span class="skillbar-title">Employee Selection & Placement</span>
+                       <div class="skillbar" data-percent="100">
                            <p class="skillbar-bar"></p>
                            <span class="skill-bar-percent"></span>
                        </div>
                        <!-- Start Skill Bar -->
-                       <span class="skillbar-title">Investment Strategy</span>
-                       <div class="skillbar" data-percent="75">
+                       <span class="skillbar-title">Training</span>
+                       <div class="skillbar" data-percent="100">
                            <p class="skillbar-bar"></p>
                            <span class="skill-bar-percent"></span>
                        </div>
-                       <!-- Start Skill Bar -->
-                       <span class="skillbar-title">Business Security</span>
-                       <div class="skillbar margin-no" data-percent="65">
-                           <p class="skillbar-bar"></p>
-                           <span class="skill-bar-percent"></span>
-                       </div>
+
                     </div>
                 </div>
                 <!-- Skillbar Section End -->
@@ -422,35 +227,35 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-4 md-mb-30">
-                    <div class="services-item">
+                    <div class="services-item" style="border-radius:10px">
                         <div class="services-icon">
                             <img src="{{asset('theme/assets/images/choose/icons/1.png')}}" alt="Images">
                         </div>
                         <div class="services-text">
-                            <h3 class="title"><a href="services-style1.html">Expert peoples</a></h3>
-                            <p class="services-txt">At vero eos et accusamus etiusto odio praesentium.</p>
+                            <h3 class="title"><a href="services-style1.html">Expert Personale</a></h3>
+                            {{-- <p class="services-txt">At vero eos et accusamus etiusto odio praesentium.</p> --}}
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 md-mb-30">
-                    <div class="services-item">
+                    <div class="services-item" style="border-radius:10px">
                         <div class="services-icon">
                             <img src="{{asset('theme/assets/images/choose/icons/2.png')}}" alt="Images">
                         </div>
                         <div class="services-text">
                             <h3 class="title"><a href="services-style1.html">Big experience</a></h3>
-                            <p class="services-txt">At vero eos et accusamus etiusto odio praesentium.</p>
+                            {{-- <p class="services-txt">At vero eos et accusamus etiusto odio praesentium.</p> --}}
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4">
-                    <div class="services-item">
+                    <div class="services-item" style="border-radius:10px">
                         <div class="services-icon">
                             <img src="{{asset('theme/assets/images/choose/icons/3.png')}}" alt="Images">
                         </div>
                         <div class="services-text">
                             <h3 class="title"><a href="services-style1.html">Committed to quality</a></h3>
-                            <p class="services-txt">At vero eos et accusamus etiusto odio praesentium.</p>
+                            {{-- <p class="services-txt">At vero eos et accusamus etiusto odio praesentium.</p> --}}
                         </div>
                     </div>
                 </div>
@@ -461,252 +266,9 @@
 </div>
 <!-- Why Choose Section Start -->
 
-<!-- Testimonial Section Start -->
-<div class="rs-testimonial main-home bg6 pt-100 pb-100 md-pt-70 md-pb-70">
-    <div class="container">
-        <div class="row y-middle">
-            <div class="col-lg-6 md-mb-40">
-                <div class="testi-image">
-                    <img src="{{asset('theme/assets/images/testimonial/testi.png')}}" alt="Testimonial">
-                </div>
-            </div>
-            <div class="col-lg-6 pl-60 md-pl-15">
-                <div class="rs-carousel owl-carousel"
-                    data-loop="true"
-                    data-items="1"
-                    data-margin="30"
-                    data-autoplay="false"
-                    data-hoverpause="true"
-                    data-autoplay-timeout="5000"
-                    data-smart-speed="800"
-                    data-dots="false"
-                    data-nav="false"
-                    data-nav-speed="false"
 
-                    data-md-device="1"
-                    data-md-device-nav="false"
-                    data-md-device-dots="true"
-                    data-center-mode="false"
 
-                    data-ipad-device2="1"
-                    data-ipad-device-nav2="false"
-                    data-ipad-device-dots2="true"
 
-                    data-ipad-device="1"
-                    data-ipad-device-nav="false"
-                    data-ipad-device-dots="true"
-
-                    data-mobile-device="1"
-                    data-mobile-device-nav="false"
-                    data-mobile-device-dots="true">
-                    <div class="testi-item">
-                        <div class="item-content">
-                            <span class="icon-img">
-                                <img src="{{asset('theme/assets/images/testimonial/quote.png')}}" alt="">
-                            </span>
-                            <p class="desc">
-                                Customer support is excellent and documentation good – novice can easily understand. Although I had a problem with the performance, thanks to the customer support, we have solved this problem as well..
-                            </p>
-                        </div>
-                        <div class="testi-content">
-                            <div class="image-wrap">
-                                <img src="{{asset('theme/assets/images/testimonial/avatar/1.jpg')}}" alt="Testimonial">
-                            </div>
-                            <div class="testi-information">
-                                <div class="testi-name">Ben Stokes</div>
-                                <span class="testi-title">Envato User</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="testi-item">
-                        <div class="item-content">
-                            <span class="icon-img">
-                                <img src="{{asset('theme/assets/images/testimonial/quote.png')}}" alt="">
-                            </span>
-                            <p class="desc">
-                                These guys are awesome! Each time I needed their help, their response was quick and very helpful. Also, the theme is very flexible. Five stars from me for everything! I truly recommend this theme!!!
-                            </p>
-                        </div>
-                        <div class="testi-content">
-                            <div class="image-wrap">
-                                <img src="{{asset('theme/assets/images/testimonial/avatar/2.jpg')}}" alt="Testimonial">
-                            </div>
-                            <div class="testi-information">
-                                <div class="testi-name">Angelina Jolie</div>
-                                <span class="testi-title">Envato Advisor</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="testi-item">
-                        <div class="item-content">
-                            <span class="icon-img">
-                                <img src="{{asset('theme/assets/images/testimonial/quote.png')}}" alt="">
-                            </span>
-                            <p class="desc">
-                                The theme is fine. It is customizable and its demos are great. The education plugin also works fine. But, although I like it so much, I want to point out a few shortcomings. Theme is appropriate, I agree.
-                            </p>
-                        </div>
-                        <div class="testi-content">
-                            <div class="image-wrap">
-                                <img src="{{asset('theme/assets/images/testimonial/avatar/3.jpg')}}" alt="Testimonial">
-                            </div>
-                            <div class="testi-information">
-                                <div class="testi-name">Megan Fox</div>
-                                <span class="testi-title">Senior CEO</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="testi-item">
-                        <div class="item-content">
-                            <span class="icon-img">
-                                <img src="{{asset('theme/assets/images/testimonial/quote.png')}}" alt="">
-                            </span>
-                            <p class="desc">
-                                These guys are awesome! Each time I needed their help, their response was quick and very helpful. Also, the theme is very flexible. Five stars from me for everything! I truly recommend this theme!!!
-                            </p>
-                        </div>
-                        <div class="testi-content">
-                            <div class="image-wrap">
-                                <img src="{{asset('theme/assets/images/testimonial/avatar/4.jpg')}}" alt="Testimonial">
-                            </div>
-                            <div class="testi-information">
-                                <div class="testi-name">Nicole Kidman</div>
-                                <span class="testi-title">Envato Author</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- Testimonial Section End -->
-
-<!-- Blog Section Start -->
-<div id="rs-blog" class="rs-blog blog-main-home bg7 pt-100 pb-100 md-pt-70 md-pb-70">
-    <div class="container">
-        <div class="sec-title text-center mb-60 md-mb-40">
-            <h2 class="title title2">
-                Latest blog posts
-            </h2>
-        </div>
-        <div class="rs-carousel owl-carousel" data-loop="true" data-items="3" data-margin="30" data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="true" data-nav="false" data-nav-speed="false" data-center-mode="false" data-mobile-device="1" data-mobile-device-nav="false" data-mobile-device-dots="true" data-ipad-device="2" data-ipad-device-nav="false" data-ipad-device-dots="true" data-ipad-device2="2" data-ipad-device-nav2="false" data-ipad-device-dots2="true" data-md-device="3" data-md-device-nav="false" data-md-device-dots="true">
-            <div class="blog-item">
-                <div class="image-wrap">
-                    <a href="blog-details.html"><img src="{{asset('theme/assets/images/blog/1.jpg')}}" alt="Blog"></a>
-                </div>
-                <div class="blog-content">
-                   <ul class="blog-meta">
-                       <li class="date">25 Jan 2021</li>
-                       <li class="admin"><a href="blog-details.html">Digital Marketing</a></li>
-                   </ul>
-                   <h3 class="blog-title"><a href="blog-details.html">7 Productivity tips to avoid burnout when working</a></h3>
-                   <p class="desc">We denounce with righteous indige nation and dislike men who are so beguiled and demo...</p>
-                   <div class="blog-btn">
-                        <a class="readon consultant blog" href="blog-details.html">Read More</a>
-                    </div>
-                </div>
-            </div>
-            <div class="blog-item">
-                <div class="image-wrap">
-                    <a href="blog-details.html"><img src="{{asset('theme/assets/images/blog/2.jpg')}}" alt="Blog"></a>
-                </div>
-                <div class="blog-content">
-                   <ul class="blog-meta">
-                       <li class="date">25 Jan 2021</li>
-                       <li class="admin"><a href="blog-details.html">Digital Marketing</a></li>
-                   </ul>
-                   <h3 class="blog-title"><a href="blog-details.html">7 Productivity tips to avoid burnout when working</a></h3>
-                   <p class="desc">We denounce with righteous indige nation and dislike men who are so beguiled and demo...</p>
-                   <div class="blog-btn">
-                        <a class="readon consultant blog" href="blog-details.html">Read More</a>
-                    </div>
-                </div>
-            </div>
-            <div class="blog-item">
-                <div class="image-wrap">
-                    <a href="blog-details.html"><img src="{{asset('theme/assets/images/blog/3.jpg')}}" alt="Blog"></a>
-                </div>
-                <div class="blog-content">
-                   <ul class="blog-meta">
-                       <li class="date">25 Jan 2021</li>
-                       <li class="admin"><a href="blog-details.html">Digital Marketing</a></li>
-                   </ul>
-                   <h3 class="blog-title"><a href="blog-details.html">7 Productivity tips to avoid burnout when working</a></h3>
-                   <p class="desc">We denounce with righteous indige nation and dislike men who are so beguiled and demo...</p>
-                   <div class="blog-btn">
-                        <a class="readon consultant blog" href="blog-details.html">Read More</a>
-                    </div>
-                </div>
-            </div>
-            <div class="blog-item">
-                <div class="image-wrap">
-                    <a href="blog-details.html"><img src="{{asset('theme/assets/images/blog/4.jpg')}}" alt="Blog"></a>
-                </div>
-                <div class="blog-content">
-                   <ul class="blog-meta">
-                       <li class="date">25 Jan 2021</li>
-                       <li class="admin"><a href="blog-details.html">Digital Marketing</a></li>
-                   </ul>
-                   <h3 class="blog-title"><a href="blog-details.html">7 Productivity tips to avoid burnout when working</a></h3>
-                   <p class="desc">We denounce with righteous indige nation and dislike men who are so beguiled and demo...</p>
-                   <div class="blog-btn">
-                        <a class="readon consultant blog" href="blog-details.html">Read More</a>
-                    </div>
-                </div>
-            </div>
-            <div class="blog-item">
-                <div class="image-wrap">
-                    <a href="blog-details.html"><img src="{{asset('theme/assets/images/blog/5.jpg')}}" alt="Blog"></a>
-                </div>
-                <div class="blog-content">
-                   <ul class="blog-meta">
-                       <li class="date">25 Jan 2021</li>
-                       <li class="admin"><a href="blog-details.html">Digital Marketing</a></li>
-                   </ul>
-                   <h3 class="blog-title"><a href="blog-details.html">7 Productivity tips to avoid burnout when working</a></h3>
-                   <p class="desc">We denounce with righteous indige nation and dislike men who are so beguiled and demo...</p>
-                   <div class="blog-btn">
-                        <a class="readon consultant blog" href="blog-details.html">Read More</a>
-                    </div>
-                </div>
-            </div>
-            <div class="blog-item">
-                <div class="image-wrap">
-                    <a href="blog-details.html"><img src="{{asset('theme/assets/images/blog/6.jpg')}}" alt="Blog"></a>
-                </div>
-                <div class="blog-content">
-                   <ul class="blog-meta">
-                       <li class="date">25 Jan 2021</li>
-                       <li class="admin"><a href="blog-details.html">Digital Marketing</a></li>
-                   </ul>
-                   <h3 class="blog-title"><a href="blog-details.html">7 Productivity tips to avoid burnout when working</a></h3>
-                   <p class="desc">We denounce with righteous indige nation and dislike men who are so beguiled and demo...</p>
-                   <div class="blog-btn">
-                        <a class="readon consultant blog" href="blog-details.html">Read More</a>
-                    </div>
-                </div>
-            </div>
-            <div class="blog-item">
-                <div class="image-wrap">
-                    <a href="blog-details.html"><img src="{{asset('theme/assets/images/blog/1.jpg')}}" alt="Blog"></a>
-                </div>
-                <div class="blog-content">
-                   <ul class="blog-meta">
-                       <li class="date">25 Jan 2021</li>
-                       <li class="admin"><a href="blog-details.html">Digital Marketing</a></li>
-                   </ul>
-                   <h3 class="blog-title"><a href="blog-details.html">7 Productivity tips to avoid burnout when working</a></h3>
-                   <p class="desc">We denounce with righteous indige nation and dislike men who are so beguiled and demo...</p>
-                   <div class="blog-btn">
-                        <a class="readon consultant blog" href="blog-details.html">Read More</a>
-                    </div>
-                </div>
-            </div>
-         </div>
-    </div>
-</div>
-<!-- Blog Section End -->
 
 <!-- Contact Section Start -->
 <div class="rs-contact main-home bg8 pt-100 pb-100 md-pt-70 md-pb-70">
@@ -725,7 +287,7 @@
             <div class="col-lg-6 md-mt-55 pl-40 md-pl-15">
                 <div class="contact-wrap">
                     <div id="form-messages"></div>
-                    <form id="contact-form" method="post" action="https://reactheme.com/products/html/bizup/mailer.php">
+                    <form id="contact-form" method="post" action="#">
                         <fieldset>
                             <div class="row">
                                 <div class="col-lg-6 col-md-6 col-sm-6 mb-30">
@@ -760,51 +322,42 @@
     <div class="rs-contact contact-icons-style pt-100 md-pt-70">
         <div class="container">
             <div class="row">
-                <div class="col-lg-3 col-md-6 col-sm-6 md-mb-30">
-                    <div class="contact-item">
-                       <div class="contact-icon">
+                <div class="col-lg-4 col-md-6 col-sm-6 md-mb-30" style="border-radius:10px">
+                    <div class="contact-item" style="border-radius:10px">
+                       <div class="contact-icon" style="border-radius:10px">
                            <img src="{{asset('theme/assets/images/contact/icons/1.png')}}" alt="images">
                        </div>
                        <div class="content-text">
-                           <h2 class="title"><a href="#">USA office</a></h2>
-                           <p class="services-txt">55 Gerad Lane,<br>
-                            NY 11201, USA</p>
+                           <h2 class="title"><a href="#">Nairobi Office</a></h2>
+                           <p class="services-txt">Nairobi<br>
+                            Kenya<br>
+                            </p>
                        </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-6 md-mb-30">
-                    <div class="contact-item">
-                       <div class="contact-icon">
-                           <img src="{{asset('theme/assets/images/contact/icons/2.png')}}" alt="images">
-                       </div>
-                       <div class="content-text">
-                           <h2 class="title"><a href="#">BD office</a></h2>
-                           <p class="services-txt">1010 Avenue<br>
-                            New York, US.</p>
-                       </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-6 xs-mb-30">
-                    <div class="contact-item">
-                       <div class="contact-icon">
+
+                <div class="col-lg-4 col-md-6 col-sm-6 xs-mb-30" style="border-radius:10px">
+                    <div class="contact-item" style="border-radius:10px">
+                       <div class="contact-icon" style="border-radius:10px">
                            <img src="{{asset('theme/assets/images/contact/icons/3.png')}}" alt="images">
                        </div>
                        <div class="content-text">
                            <h2 class="title"><a href="#">Email us</a></h2>
-                            <a href="#">test@gamil.com</a><br>
-                            <a href="#">test2@gamil.com</a>
+                            <a href="#">info@alizhorahrinternational.co.ke</a><br>
+                            <a href="#">hello@alizhorahrinternational.co.ke</a>
                        </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-6">
-                    <div class="contact-item">
-                       <div class="contact-icon">
+                <div class="col-lg-4 col-md-6 col-sm-6" style="border-radius:10px">
+                    <div class="contact-item" style="border-radius:10px">
+                       <div class="contact-icon" style="border-radius:10px">
                            <img src="{{asset('theme/assets/images/contact/icons/4.png')}}" alt="images">
                        </div>
                        <div class="content-text">
                            <h2 class="title"><a href="#">Call us</a></h2>
-                           <a href="tel:(+088)589-8745">(+088) 589-8745</a>
-                           <a href="tel:(+088)222-9999">(+088) 222-9999</a>
+                           <a href="tel:+254 740 736 877">+254 740 736 877</a>
+                           <br>
+                           <a href="tel:+254 716 351 111">+254 716 351 111</a>
                        </div>
                     </div>
                 </div>

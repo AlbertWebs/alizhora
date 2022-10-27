@@ -45,7 +45,7 @@
         <div id="pre-load">
            <div id="loader" class="loader">
                <div class="loader-container">
-                   <div class='loader-icon'><img src="{{asset('theme/assets/images/fav.png')}}" alt="Alizhora HR International"></div>
+                   <div class='loader-icon'><img src="{{asset('theme/assets/images/Alizhora-logos-favicon.png')}}" alt="Alizhora HR International"></div>
                </div>
            </div>
        </div>
@@ -83,10 +83,11 @@
                                 <div class="col-lg-5 text-right">
                                     <div class="toolbar-sl-share">
                                         <ul>
-                                             <li class="opening"> <em><i class="flaticon-clock"></i>Monday - Friday / 8AM - 11PM</em> </li>
+                                             <li class="opening"> <em><i class="flaticon-clock"></i>Monday - Friday / 8AM - 5PM</em> </li>
                                              <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                              <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                                              <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                             <li><a href="#"><i class="fa fa-instagram"></i></a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -175,10 +176,12 @@
                             </a>
                         </div>
                         <div class="canvas-logo">
-                            <a href="{{url('/')}}"><img src="{{asset('theme/assets/images/logo.png')}}" alt="logo"></a>
+                            <a href="{{url('/')}}"><img src="{{asset('theme/assets/images/Alizhoralogos-2-light.png')}}" alt="logo"></a>
                         </div>
                         <div class="offcanvas-text">
-                            <p>We denounce with righteous indig nation in and dislike men who are so beguiled and to demo realized, that they data forest see best business consulting wordpress theme 2021.</p>
+                            <p>
+                                Alizhora HR International is a dynamic consultancy dedicated to empower people towards excellence in their careers and personal life through Transformative Leadership and Management Training.
+                            </p>
                         </div>
                         <div class="media-img">
                             <img src="{{asset('theme/assets/images/off2.jpg')}}" alt="Images">
@@ -342,7 +345,7 @@
                                 <li><a href="tax-strategy#">Employee Selection & Placement</a></li>
                                 <li><a href="financial-advices#">Training</a></li>
                                 <li><a href="insurance-strategy#">Terms and Conditions</a></li>
-                                <li><a href="manage-investment#">Manage investment</a></li>
+                                <li><a href="manage-investment#">Our Sectors</a></li>
                             </ul>
                         </div>
                         <div class="col-lg-4 col-md-12 col-sm-12 md-mb-10">
