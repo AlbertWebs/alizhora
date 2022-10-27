@@ -344,7 +344,7 @@
                                 <li><a href="business-planning#">Human Resource Solutions</a></li>
                                 <li><a href="tax-strategy#">Employee Selection & Placement</a></li>
                                 <li><a href="financial-advices#">Training</a></li>
-                                <li><a href="insurance-strategy#">Terms and Conditions</a></li>
+                                <li><a href="{{url('/')}}/terms-and-conditions">Terms and Conditions</a></li>
                                 <li><a href="manage-investment#">Our Sectors</a></li>
                             </ul>
                         </div>
@@ -364,9 +364,15 @@
                                     </div>
                                 </li>
                                 <li>
+                                    <i class="flaticon-call"></i>
+                                    <div class="desc">
+                                       <a href="tel:+254 716 351 111">+254 716 351 111</a>
+                                    </div>
+                                </li>
+                                <li>
                                     <i class="flaticon-email"></i>
                                     <div class="desc">
-                                        <a href="mailto:support@alizhorahrinternational.co.ke">support@alizhorahrinternational.co.ke</a>
+                                        <a href="mailto:info@alizhorahrinternational.co.ke">info@alizhorahrinternational.co.ke</a>
                                     </div>
                                 </li>
                                 <li>
@@ -388,13 +394,13 @@
                             <ul class="copy-right-menu">
                                 <li><a href="{{url('/')}}">Home</a></li>
                                 <li><a href="{{url('/')}}/the-company">The Company</a></li>
-                                <li><a href="faqs#">Privacy Policy</a></li>
+                                <li><a href="{{url('/')}}/privacy-policy">Privacy Policy</a></li>
                                 <li><a href="{{url('/')}}/contact-us">Contact</a></li>
                             </ul>
                         </div>
                         <div class="col-lg-6">
                             <div class="copyright text-lg-start text-center ">
-                                <p>Copyright © {{date('Y')}} Alizhora HR International - All Rights Reserved.</p>
+                                <p>Copyright © {{date('Y')}} <a href="{{url('/')}}/copyright-statement">Alizhora HR International</a> - All Rights Reserved.</p>
                             </div>
                         </div>
                     </div>

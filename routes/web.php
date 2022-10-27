@@ -19,6 +19,10 @@ Route::get('/the-company', [App\Http\Controllers\HomeController::class, 'company
 Route::get('/the-sectors', [App\Http\Controllers\HomeController::class, 'sector'])->name('sector-page');
 Route::get('/services', [App\Http\Controllers\HomeController::class, 'services'])->name('services-page');
 
+Route::get('/copyright-statement', [App\Http\Controllers\HomeController::class, 'copyright'])->name('copyright-page');
+Route::get('/terms-and-conditions', [App\Http\Controllers\HomeController::class, 'terms'])->name('terms-page');
+Route::get('/privacy-policy', [App\Http\Controllers\HomeController::class, 'policy'])->name('policy-page');
+
 
 Auth::routes();
 

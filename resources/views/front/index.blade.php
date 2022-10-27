@@ -280,7 +280,7 @@
         </div>
         <div class="row y-middle">
             <div class="col-lg-6">
-                <div class="contact-map">
+                <div class="contact-map" style="border-radius:10px">
                     <iframe src="https://maps.google.com/maps?q=rstheme&amp;t=&amp;z=13&amp;ie=UTF8&amp;iwloc=&amp;output=embed"></iframe>
                 </div>
             </div>
