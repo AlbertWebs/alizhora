@@ -9094,3 +9094,7 @@ body .search-modal .close:hover {
   margin-bottom: 50px;
   border-bottom: 1.5px solid #eaeaea;
 }
+
+.margin-right{
+    text-align: center;
+}

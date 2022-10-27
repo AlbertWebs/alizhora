@@ -162,7 +162,7 @@
                         <img src="{{asset('theme/assets/images/choose/chosse-video.jpg')}}" alt="images">
                     </div>
                     <div class="animate-border">
-                        <a class="popup-border" href="https://www.youtube.com/watch?v=FMvA5fyZ338">
+                        <a class="popup-border" href="https://www.youtube.com/watch?v=3tpVVY5OP3g">
                             <i class="fa fa-play"></i>
                         </a>
                     </div>
@@ -174,66 +174,42 @@
     <div class="rs-counter style1 pt-100 md-pt-70">
         <div class="container">
             <div class="row">
-                <div class="col-lg-3 col-md-6 col-sm-6 md-mb-30">
+                <div class="col-lg-6 col-md-6 col-sm-6 md-mb-30">
                     <div class="counter-area">
                         <div class="counter-list mb-20">
                             <div class="counter-icon">
                                 <img src="{{asset('theme/assets/images/counter/icons/1.png')}}" alt="Counter">
                             </div>
                             <div class="counter-number">
-                                <span class="rs-count">582</span>
+                                <h3 class="rs-counts">Mission</h3>
                             </div>
                         </div>
                         <div class="content-part">
-                            <h5 class="title">Projects completed for our respected clients.</h5>
+                            <h5 class="title">Dedication to our calling in organizational development programs including capacity buil-
+                                ding, team buildingand quality audits that bring modern leadership and performance to
+
+                                organizations.</h5>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-6 md-mb-30">
-                    <div class="counter-area">
-                        <div class="counter-list mb-20">
-                            <div class="counter-icon">
-                                <img src="{{asset('theme/assets/images/counter/icons/2.png')}}" alt="Counter">
-                            </div>
-                            <div class="counter-number">
-                                <span class="rs-count">215</span>
-                                <span class="prefix">+</span>
-                            </div>
-                        </div>
-                        <div class="content-part">
-                            <h5 class="title">Experienced people serving to clients.</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-6 xs-mb-30">
-                    <div class="counter-area">
-                        <div class="counter-list mb-20">
-                            <div class="counter-icon">
-                                <img src="{{asset('theme/assets/images/counter/icons/3.png')}}" alt="Counter">
-                            </div>
-                            <div class="counter-number">
-                                <span class="rs-count">25</span>
-                                <span class="prefix">+</span>
-                            </div>
-                        </div>
-                        <div class="content-part">
-                            <h5 class="title">Years experience in business & consulting.</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-6">
+
+
+                <div class="col-lg-6 col-md-6 col-sm-6">
                     <div class="counter-area">
                         <div class="counter-list mb-20">
                             <div class="counter-icon">
                                 <img src="{{asset('theme/assets/images/counter/icons/4.png')}}" alt="Counter">
                             </div>
                             <div class="counter-number">
-                                <span class="rs-count">70</span>
-                                <span class="prefix">+</span>
+                                <h3 class="rs-counts">Vision</h3>
+
                             </div>
                         </div>
                         <div class="content-part">
-                            <h5 class="title">Business & consulting awards won over world.</h5>
+                            <h5 class="title">To be the leading management and Human Resource Consultancy Center in the region,
+
+                                with a world class HR solutions and training modules that enable our clients confront com-
+                                plex business challenges.</h5>
                         </div>
                     </div>
                 </div>
