@@ -319,8 +319,8 @@ as an expense but rather as an investment.
                        </div>
                        <div class="content-text">
                            <h2 class="title"><a href="#">Nairobi Office</a></h2>
-                           <p class="services-txt">Nairobi<br>
-                            Kenya<br>
+                           <p class="services-txt">                                 Cianda House, Koinange Street
+                            Suite 24, Nairobi<br>
                             </p>
                        </div>
                     </div>

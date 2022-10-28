@@ -211,7 +211,8 @@
                                     </div>
                                     <div class="info-content">
                                         <h4 class="title">Address</h4>
-                                        <em>05 kandi BR. New York</em>
+                                        <em> Cianda House, Koinange Street
+                                            Suite 24, Nairobi</em>
                                     </div>
                                 </div>
                                 <div class="address-list">
@@ -278,7 +279,8 @@
                                       </div>
                                       <div class="info-content">
                                           <h4 class="title">Address</h4>
-                                          <em>Nairobi, Kenya</em>
+                                          <em>                                 Cianda House, Koinange Street
+                                            Suite 24, Nairobi</em>
                                       </div>
                                   </div>
                                   <div class="address-list">
@@ -370,7 +372,8 @@
                             <ul class="address-widget">
                                 <li>
                                     <i class="flaticon-location"></i>
-                                    <div class="desc"> Nairobi, Kenya
+                                    <div class="desc">                                  Cianda House, Koinange Street
+                                        Suite 24, Nairobi
                                         <br>
                                         </div>
                                 </li>

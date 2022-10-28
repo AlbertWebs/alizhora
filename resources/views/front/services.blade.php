@@ -311,8 +311,10 @@
                             </div>
                             <div class="content-text">
                                 <h2 class="title"><a href="#">Nairobi office</a></h2>
-                                <p class="services-txt">Nairobi<br>
-                                     Kenya</p>
+                                <p class="services-txt">
+                                    Cianda House, Koinange Street
+                                    Suite 24, Nairobi
+                                </p>
                             </div>
                         </div>
                     </div>
