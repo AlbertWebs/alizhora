@@ -4,28 +4,10 @@
 <head>
         <!-- meta tag -->
         <meta charset="utf-8">
-        <title>Alizhora HR International - Human Resource Consultancy</title>
-        <meta name="description" content="Alizhora HR International is a dynamic consultancy dedicated to empower people towards excellence
-
-        in their careers and personal life through Transformative Leadership and
-
-        Management Training.">
-
-        {{-- OG --}}
-        <meta property="og:description" content="Alizhora HR International is a dynamic consultancy dedicated to empower people towards excellence
-
-        in their careers and personal life through Transformative Leadership and
-
-        Management Training.">
-        <meta property="og:image" content="{{asset('theme/assets/images/Alizhora-logos-favicon.png')}}" />
-        <meta property="fb:app_id" content="682580657174772" />
-        <meta property="og:title" content="Alizhora HR International - Human Resource Consultancy " />
-        <meta property="og:type" content="website" />
-        <meta property="og:url" content="{{url('/')}}" />
-        {{-- OG --}}
         <!-- responsive tag -->
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        @include('seo')
         <!-- favicon -->
         <link rel="apple-touch-icon" href="apple-touch-icon#">
         <link rel="shortcut icon" type="image/x-icon" href="{{asset('theme/assets/images/Alizhora-logos-favicon.png')}}">
@@ -130,19 +112,19 @@
                                         <div class="main-menu">
                                             <nav class="rs-menu hidden-md">
                                                 <ul class="nav-menu">
-                                                    <li class="rs-mega-menu  current-menu-item">
+                                                    <li class="rs-mega-menu  @if($page == "home") current-menu-item @endif">
                                                         <a href="{{url('/')}}">Home</a>
                                                     </li>
-                                                    <li class="rs-mega-menu  ">
+                                                    <li class="rs-mega-menu  @if($page == "company") current-menu-item @endif">
                                                         <a href="{{url('/')}}/the-company">The Company</a>
                                                     </li>
-                                                    <li class="rs-mega-menu ">
+                                                    <li class="rs-mega-menu  @if($page == "service") current-menu-item @endif ">
                                                         <a href="{{url('/')}}/services">Services</a>
                                                     </li>
-                                                    <li class="rs-mega-menu ">
+                                                    <li class="rs-mega-menu  @if($page == "sector") current-menu-item @endif ">
                                                         <a href="{{url('/')}}/the-sectors">Our Sectors</a>
                                                     </li>
-                                                    <li class="rs-mega-menu  ">
+                                                    <li class="rs-mega-menu  @if($page == "contact") current-menu-item @endif ">
                                                         <a href="{{url('/')}}/contact-us">Contact Us</a>
                                                     </li>
 
