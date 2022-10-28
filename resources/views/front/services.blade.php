@@ -6,114 +6,147 @@
     <div class="container">
         <div class="breadcrumbs-inner">
             <h1 class="page-title">
-                We manage your business
-                <span class="watermark">Services</span>
+                What we do
+                <span class="watermark">Management & Leadership</span>
             </h1>
-            <span class="sub-text">Excepteur sint occaecat cupidatat non proident, sunt in coulpa qui official
-                modeserunt mollit anim id est laborum 20 years experience.</span>
+            <span class="sub-text">Alizhora HR International is a dynamic consultancy dedicated to empower people towards excellence in their careers and personal life through Transformative Leadership and Management Training.  </span>
         </div>
     </div>
 </div>
 <!-- Breadcrumbs End -->
+<!-- About Section Start -->
+<div class="rs-about main-home bg1 pt-110 pb-110 md-pt-70 md-pb-65">
+    <div class="container">
+        <div class="row y-middle">
+            <div class="col-lg-6 md-mb-50">
+                <div class="images-part">
+                    <img src="{{asset('theme/assets/images/about/about.png')}}" alt="Images">
+                </div>
+            </div>
+            <div class="col-lg-6 pl-60 md-pl-15">
+                <div class="sec-title">
+                    <h2 class="title pb-30">
+                        Human Resource Solutions
+                    </h2>
+
+
+                    <p class="margin-0">
+                        {{--  --}}
+                        <strong>1. Recruitment, Outsourcing, Selection and Placement</strong>
+                        <br>
+
+                        Human resources are a key component in a business, the need to have the right people,
+                        doing the right job,possessing the right skill set is a growing demand. As a result, Alizhora
+                        comes in to all these growing demands.We source our staff from various fields both for
+                        short-term and long-term placements.
+                        <br><br>
+                        <strong>2. Job Evaluations, Analysis, Grading and Benchmarking</strong>
+                        <br>
+                        This process determines the relative size and worth of each job. We get to examine the
+                        contents and requirements of jobs and measures these against a standard scale. This result
+                        in job grades, scores, levels or ratings whereby jobs can be compared with other jobs to
+                        determine their relative worth. We get to benchmark your organization against similar
+                        organizations in the same industry to ensure that your organization remains competitive
+                        at all times.
+                        {{--  --}}
+                    </p>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- About Section End -->
 
 <!-- Services Section Start -->
-<div class="rs-services main-home services-style1 gray-bg3 pt-100 pb-100 md-pt-70 md-pb-70">
+<div class="rs-services main-home bg7 services-style1 gray-bg3 pt-100 pb-100 md-pt-70 md-pb-70">
     <div class="container">
-        <div class="row">
-            <div class="col-lg-4 col-md-6 mb-65">
-                <div class="services-item">
-                    <div class="services-icon">
-                        <img src="{{asset('theme/assets/images/services/main-home/1.png')}}" alt="Services">
-                    </div>
-                    <div class="services-text">
-                        <h2 class="title"><a href="business-planning.html">Business Planning</a></h2>
-                        <p class="services-txt"> Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio
-                            ac nibh luctus consulting.</p>
-                        <div class="serial-number">
-                            01
-                        </div>
-                    </div>
+        <div class="row y-middle">
+
+            <div class="col-lg-6 pl-60 md-pl-15">
+                <div class="sec-title">
+                    <h2 class="title pb-30">
+                        Employee Selection & Placement
+                    </h2>
+
+
+                    <p class="margin-0">
+                        We assist clients with selection and placement services. We provide placement services
+                        where we develop an ideal employee profile and then work to source interview candidates for
+                        a specific position.
+                        <br><br>
+                        We then pre-screen applicants using behavioral interview techniques. Finally, we only send
+                        the best candidates to you for interviewing. This benefits you by eliminating wasted time in
+                        interviews with less than ideal candidates and sets you up to hire right the first time.
+                        The Process would include:-<br><br>
+                        Recruitment and selection
+                        Short listing
+                        Assessing the shortlisted candidates
+                        Interviewing
+                        Final selection for the best 3 candidates
+                        Pre-Employment and back ground testing
+                        Sending the pre-selected candidates to the client for final selection
+                    </p>
+
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 mb-65">
-                <div class="services-item">
-                    <div class="services-icon">
-                        <img src="{{asset('theme/assets/images/services/main-home/2.png')}}" alt="Services">
-                    </div>
-                    <div class="services-text">
-                        <h2 class="title"><a href="tax-strategy.html">Tax Strategy</a></h2>
-                        <p class="services-txt"> Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio
-                            ac nibh luctus consulting.</p>
-                        <div class="serial-number">
-                            02
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 mb-65">
-                <div class="services-item">
-                    <div class="services-icon">
-                        <img src="{{asset('theme/assets/images/services/main-home/3.png')}}" alt="Services">
-                    </div>
-                    <div class="services-text">
-                        <h2 class="title"><a href="financial-advices.html">Financial Advices</a></h2>
-                        <p class="services-txt"> Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio
-                            ac nibh luctus consulting.</p>
-                        <div class="serial-number">
-                            03
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 md-mb-65">
-                <div class="services-item">
-                    <div class="services-icon">
-                        <img src="{{asset('theme/assets/images/services/main-home/4.png')}}" alt="Services">
-                    </div>
-                    <div class="services-text">
-                        <h2 class="title"><a href="insurance-strategy.html">Insurance Strategy</a></h2>
-                        <p class="services-txt"> Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio
-                            ac nibh luctus consulting.</p>
-                        <div class="serial-number">
-                            04
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 sm-mb-65">
-                <div class="services-item">
-                    <div class="services-icon">
-                        <img src="{{asset('theme/assets/images/services/main-home/5.png')}}" alt="Services">
-                    </div>
-                    <div class="services-text">
-                        <h2 class="title"><a href="start-ups.html">Start Ups</a></h2>
-                        <p class="services-txt"> Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio
-                            ac nibh luctus consulting.</p>
-                        <div class="serial-number">
-                            05
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="services-item">
-                    <div class="services-icon">
-                        <img src="{{asset('theme/assets/images/services/main-home/6.png')}}" alt="Services">
-                    </div>
-                    <div class="services-text">
-                        <h2 class="title"><a href="manage-investment.html">Manage Investment</a></h2>
-                        <p class="services-txt"> Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio
-                            ac nibh luctus consulting.</p>
-                        <div class="serial-number">
-                            06
-                        </div>
-                    </div>
+
+            <div class="col-lg-6 md-mb-50">
+                <div class="images-part">
+                    <img src="{{asset('theme/assets/images/about/about.png')}}" alt="Images">
                 </div>
             </div>
         </div>
     </div>
 </div>
 <!-- Services Section End -->
+
+<!-- About Section Start -->
+<div class="rs-about main-home bg1 pt-110 pb-110 md-pt-70 md-pb-65">
+    <div class="container">
+        <div class="row y-middle">
+            <div class="col-lg-6 md-mb-50">
+                <div class="images-part">
+                    <img src="{{asset('theme/assets/images/about/about.png')}}" alt="Images">
+                </div>
+            </div>
+            <div class="col-lg-6 pl-60 md-pl-15">
+                <div class="sec-title">
+                    <h2 class="title pb-30">
+                        Training
+                    </h2>
+
+
+                    <p class="margin-0">
+                        {{--  --}}
+                        Training is one of the most important parts of an organization's overall Strategy. It presents
+                        a prime opportunity to expand the knowledge base of all employees and should not be viewed
+                        as an expense but rather as an investment. Benefits of training are intangible and investing in
+                        training benefits both, organization and employees for a long period. Training enhances a
+                        worker level of skills, provides a sense of satisfaction which is an intrinsic motivator. Training
+                        also provides organization multi skill employees and increases an employee commitment to
+                        their job and their organization.<br><br>
+                        Alizhora HR International offer different training programs for her clients and we exercise
+                        flexibility in tailoring programs that suit different organizational needs. Some of the programs
+                        we offer are:<br><br>
+                        Strategic Performance Management Training
+                        HR for Non HR managers
+                        Employee wellness training programs
+                        Employee safety at Work place
+                        Communication Skills
+                        Change Management
+                        Customer Service training programs
+                        Time and Priority Management
+                        {{--  --}}
+                    </p>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- About Section End -->
+
 
 <!-- Process Section Start -->
 <div class="rs-process style1 bg2 pt-100 pb-100 md-pt-70 md-pb-80">
@@ -122,13 +155,13 @@
             <div class="col-lg-7">
                 <div class="sec-title md-text-center mb-30">
                     <h2 class="title title2 white-color">
-                        Our working process - how we work for our customers
+                        Our work process
                     </h2>
                 </div>
             </div>
             <div class="col-lg-5">
                 <div class="btn-part text-right md-text-center">
-                    <a class="readon consultant discover" href="portfolio.html">Get In Touch</a>
+                    <a class="readon consultant discover" href="{{url('/')}}/contact-us">Get In Touch</a>
                 </div>
             </div>
         </div>
@@ -148,8 +181,7 @@
                                     <h3 class="title"> Discovery</h3>
                                 </div>
                                 <div class="number-txt">
-                                    Quisque placerat vitae focus scelerisque. Fusce luctus odio ac nibh luctus,
-                                    in porttitor.
+                                    Initial meeting where we learn and understand our clients HR requirments
                                 </div>
                             </div>
                         </div>
@@ -167,8 +199,7 @@
                                     <h3 class="title">Planning</h3>
                                 </div>
                                 <div class="number-txt">
-                                    Quisque placerat vitae focus scelerisque. Fusce luctus odio ac nibh luctus,
-                                    in porttitor.
+                                    Gathering information about current processes, including interviews and other qualitative approaches with the stakeholders involved.
                                 </div>
                             </div>
                         </div>
@@ -186,8 +217,7 @@
                                     <h3 class="title">Execute</h3>
                                 </div>
                                 <div class="number-txt">
-                                    Quisque placerat vitae focus scelerisque. Fusce luctus odio ac nibh luctus,
-                                    in porttitor.
+                                    Actual Process of implementing the solution
                                 </div>
                             </div>
                         </div>
@@ -205,8 +235,7 @@
                                     <h3 class="title">Deliver</h3>
                                 </div>
                                 <div class="number-txt">
-                                    Quisque placerat vitae focus scelerisque. Fusce luctus odio ac nibh luctus,
-                                    in porttitor.
+                                    Honoring our promises to our clients
                                 </div>
                             </div>
                         </div>
@@ -281,32 +310,22 @@
                                 <img src="{{asset('theme/assets/images/contact/icons/1.png')}}" alt="images">
                             </div>
                             <div class="content-text">
-                                <h2 class="title"><a href="#">USA office</a></h2>
-                                <p class="services-txt">55 Gerad Lane,<br>
-                                    NY 11201, USA</p>
+                                <h2 class="title"><a href="#">Nairobi office</a></h2>
+                                <p class="services-txt">Nairobi<br>
+                                     Kenya</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-6 col-sm-6 md-mb-30">
-                        <div class="contact-item">
-                            <div class="contact-icon">
-                                <img src="{{asset('theme/assets/images/contact/icons/2.png')}}" alt="images">
-                            </div>
-                            <div class="content-text">
-                                <h2 class="title"><a href="#">BD office</a></h2>
-                                <p class="services-txt">Ta-134/A, Link Road, Gulshan-1</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 col-sm-6 xs-mb-30">
+
+                    <div class="col-lg-6 col-md-6 col-sm-6 xs-mb-30">
                         <div class="contact-item">
                             <div class="contact-icon">
                                 <img src="{{asset('theme/assets/images/contact/icons/3.png')}}" alt="images">
                             </div>
                             <div class="content-text">
                                 <h2 class="title"><a href="#">Email us</a></h2>
-                                <a href="mailto:test@gamil.com">test@gamil.com</a><br>
-                                <a href="mailto:test2@gamil.com">test2@gamil.com</a>
+                                <a href="#">info@alizhorahrinternational.co.ke</a><br>
+                                <a href="#">support@alizhorahrinternational.co.ke</a>
                             </div>
                         </div>
                     </div>
@@ -317,8 +336,8 @@
                             </div>
                             <div class="content-text">
                                 <h2 class="title"><a href="#">Call us</a></h2>
-                                <a href="tel:(+088)589-8745">(+088) 589-8745</a>
-                                <a href="tel:(+088)222-9999">(+088) 222-9999</a>
+                                <a href="tel:+254 740 736 877">+254 740 736 877</a><br>
+                                <a href="tel:+254 716 351 111">+254 716 351 111</a>
                             </div>
                         </div>
                     </div>
@@ -330,58 +349,5 @@
 </div>
 <!-- Contact Section End -->
 
-<!-- Partner Section Start -->
-<div class="rs-patter-section black-bg pt-80 pb-75">
-    <div class="container custom">
-        <div class="rs-carousel owl-carousel" data-loop="true" data-items="5" data-margin="30"
-            data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800"
-            data-dots="false" data-nav="false" data-nav-speed="false" data-md-device="5"
-            data-md-device-nav="false" data-md-device-dots="false" data-center-mode="false"
-            data-ipad-device2="4" data-ipad-device-nav2="false" data-ipad-device-dots2="false"
-            data-ipad-device="4" data-ipad-device-nav="false" data-ipad-device-dots="false"
-            data-mobile-device="2" data-mobile-device-nav="false" data-mobile-device-dots="false">
-            <div class="logo-img">
-                <a href="#">
-                    <img class="hovers-logos rs-grid-img" src="{{asset('theme/assets/images/partner/main-home/1.png')}}" title=""
-                        alt="">
-                    <img class="mains-logos rs-grid-img " src="{{asset('theme/assets/images/partner/main-home/1.png')}}" title=""
-                        alt="">
-                </a>
-            </div>
-            <div class="logo-img">
-                <a href="#">
-                    <img class="hovers-logos rs-grid-img" src="{{asset('theme/assets/images/partner/main-home/2.png')}}" title=""
-                        alt="">
-                    <img class="mains-logos rs-grid-img " src="{{asset('theme/assets/images/partner/main-home/2.png')}}" title=""
-                        alt="">
-                </a>
-            </div>
-            <div class="logo-img">
-                <a href="#">
-                    <img class="hovers-logos rs-grid-img" src="{{asset('theme/assets/images/partner/main-home/3.png')}}" title=""
-                        alt="">
-                    <img class="mains-logos rs-grid-img " src="{{asset('theme/assets/images/partner/main-home/3.png')}}" title=""
-                        alt="">
-                </a>
-            </div>
-            <div class="logo-img">
-                <a href="#">
-                    <img class="hovers-logos rs-grid-img" src="{{asset('theme/assets/images/partner/main-home/4.png')}}" title=""
-                        alt="">
-                    <img class="mains-logos rs-grid-img " src="{{asset('theme/assets/images/partner/main-home/4.png')}}" title=""
-                        alt="">
-                </a>
-            </div>
-            <div class="logo-img">
-                <a href="#">
-                    <img class="hovers-logos rs-grid-img" src="{{asset('theme/assets/images/partner/main-home/5.png')}}" title=""
-                        alt="">
-                    <img class="mains-logos rs-grid-img " src="{{asset('theme/assets/images/partner/main-home/5.png')}}" title=""
-                        alt="">
-                </a>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- Partner Section End -->
+
 @endsection
