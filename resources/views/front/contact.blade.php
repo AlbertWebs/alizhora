@@ -22,7 +22,7 @@
             <div class="col-lg-6 pr-40 md-pr-15 md-mb-50">
                 <div class="contact-map" style="border-radius:10px;">
                     <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15955.278735044094!2d36.7799344!3d-1.2819582!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6ae3d137c7a19a23!2sVartech%20East%20Africa!5e0!3m2!1sen!2ske!4v1666856524215!5m2!1sen!2ske"></iframe>
+                        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15955.27029101627!2d36.8183125!3d-1.2833125!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xab5c55ac7a084c8e!2sAlizhora%20HR%20International!5e0!3m2!1sen!2ske!4v1667040159618!5m2!1sen!2ske"></iframe>
                 </div>
             </div>
             <div class="col-lg-6">
