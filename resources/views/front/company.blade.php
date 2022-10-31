@@ -2,7 +2,7 @@
 
 @section('content')
    <!-- Breadcrumbs Start -->
-   <div class="rs-breadcrumbs img1">
+   <div class="rs-breadcrumbs img8">
     <div class="container">
         <div class="breadcrumbs-inner">
             <h1 class="page-title">
