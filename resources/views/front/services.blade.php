@@ -93,7 +93,7 @@
 
             <div class="col-lg-6 md-mb-50">
                 <div class="images-part">
-                    <img src="{{asset('theme/assets/images/about/about.png')}}" alt="Images">
+                    <img style="border-radius:10px;" src="{{asset('theme/assets/images/placement.jpg')}}" alt="Images">
                 </div>
             </div>
         </div>
@@ -107,7 +107,7 @@
         <div class="row y-middle">
             <div class="col-lg-6 md-mb-50">
                 <div class="images-part">
-                    <img src="{{asset('theme/assets/images/about/about.png')}}" alt="Images">
+                    <img style="border-radius:10px" src="{{asset('theme/assets/images/Sales-talent.jpg')}}" alt="Images">
                 </div>
             </div>
             <div class="col-lg-6 pl-60 md-pl-15">
@@ -257,13 +257,13 @@
         <div class="row y-middle">
             <div class="col-lg-6 md-mb-50">
                 <div class="contact-img">
-                    <img src="{{asset('theme/assets/images/contact/computer.jpg')}}" alt="Computer">
+                    <img style="border-radius:10px" src="{{asset('theme/assets/images/contact/computer.jpg')}}" alt="Computer">
                 </div>
             </div>
             <div class="col-lg-6">
                 <div class="contact-wrap">
                     <div id="form-messages"></div>
-                    <form id="contact-form" method="post" action="https://reactheme.com/products/html/bizup/mailer.php">
+                    <form id="contact-form" method="post" action="#">
                         <fieldset>
                             <div class="row">
                                 <div class="col-lg-6 col-md-6 col-sm-6 mb-30">
@@ -306,8 +306,8 @@
                 <div class="row">
                     <div class="col-lg-3 col-md-6 col-sm-6 md-mb-30">
                         <div class="contact-item">
-                            <div class="contact-icon">
-                                <img src="{{asset('theme/assets/images/contact/icons/1.png')}}" alt="images">
+                            <div class="contact-icon" style="border-radius:10px">
+                                <img style="border-radius:10px" src="{{asset('theme/assets/images/contact/icons/1.png')}}" alt="images">
                             </div>
                             <div class="content-text">
                                 <h2 class="title"><a href="#">Nairobi office</a></h2>

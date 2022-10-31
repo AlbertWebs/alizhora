@@ -36,7 +36,7 @@
                 </div>
                 <div class="contact-wrap">
                     <div id="form-messages"></div>
-                    <form id="contact-form" method="post" action="https://reactheme.com/products/html/bizup/mailer.php">
+                    <form id="contact-form" method="post" action="#">
                         <fieldset>
                             <div class="row">
                                 <div class="col-lg-6 col-md-6 col-sm-6 mb-30">
