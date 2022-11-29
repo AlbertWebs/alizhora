@@ -236,20 +236,23 @@
                             </a>
                         </div>
                         <ul class="nav-menu">
-                            <li class="current-menu-item">
+                            {{-- <li class="current-menu-item">
+                                <a href="{{url('/')}}">Home</a>
+                            </li> --}}
+                            <li class="@if($page == "home") current-menu-item @endif">
                                 <a href="{{url('/')}}">Home</a>
                             </li>
-                            <li class="  ">
-                                <a href="{{url('/')}}">The Company</a>
+                            <li class="@if($page == "company") current-menu-item @endif">
+                                <a href="{{url('/')}}/the-company">The Company</a>
                             </li>
-                            <li class="">
-                                <a href="{{url('/')}}">Services</a>
+                            <li class="@if($page == "service") current-menu-item @endif ">
+                                <a href="{{url('/')}}/services">Services</a>
                             </li>
-                            <li class=" ">
-                                <a href="{{url('/')}}">Our Sectors</a>
+                            <li class="@if($page == "sector") current-menu-item @endif ">
+                                <a href="{{url('/')}}/the-sectors">Our Sectors</a>
                             </li>
-                            <li class="  ">
-                                <a href="{{url('/')}}">Contact Us</a>
+                            <li class="@if($page == "contact") current-menu-item @endif ">
+                                <a href="{{url('/')}}/contact-us">Contact Us</a>
                             </li>
 
                         </ul> <!-- //.nav-menu -->
