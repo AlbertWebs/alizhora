@@ -70,7 +70,7 @@
                                            </li>
                                            <li>
                                                <i class="flaticon-call"></i>
-                                               <a href="tel:+254 740 736 877"> +254 740 736 877</a>
+                                               <a href="tel:+254 716 351 111"> +254 716 351 111</a>
                                            </li>
                                            <li>
                                                <i class="flaticon-location"></i>
@@ -212,7 +212,7 @@
                                     </div>
                                     <div class="info-content">
                                       <h4 class="title">Phone</h4>
-                                      <em>+254 740 736 877</em>
+                                      <em>+254 716 351 111</em>
                                     </div>
                                 </div>
                             </div>
@@ -283,7 +283,7 @@
                                       </div>
                                       <div class="info-content">
                                           <h4 class="title">Phone</h4>
-                                          <em>+254 740 736 877</em>
+                                          <em>+254 716 351 111</em>
                                       </div>
                                   </div>
                               </div>
@@ -365,7 +365,7 @@
                                 <li>
                                     <i class="flaticon-call"></i>
                                     <div class="desc">
-                                       <a href="tel:+254 740 736 877">+254 740 736 877</a>
+                                       <a href="tel:+254 716 351 111">+254 716 351 111</a>
                                     </div>
                                 </li>
                                 <li>
